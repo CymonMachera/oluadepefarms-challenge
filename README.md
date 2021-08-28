@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ![Desktop-1](src/assets/image/desktop-1.PNG)
 
 ##  The Desktop View with Error
-![Desktop-2](src/assets/image/desktop-2.PNG)
+![Desktop-2](src/assets/image/Desktop-2.PNG)
 
 ##  Mobile View
 ![Mobile](src/assets/image/mob-1.PNG)
