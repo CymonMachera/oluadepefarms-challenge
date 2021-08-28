@@ -18,7 +18,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ##  Mobile View
 ![Mobile](src/assets/image/mob-2.PNG)
 
-##  Mobile View
+##  Mobile with error View
 ![Mobile](src/assets/image/mob-3.PNG)
 
 
